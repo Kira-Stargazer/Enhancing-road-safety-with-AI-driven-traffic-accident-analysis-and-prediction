@@ -2,8 +2,8 @@ import os
 import json
 
 # Directories (modify these paths as needed)
-input_dir = r"PATH\TO\YOUR\INPUT\FOLDER"
-output_dir = r"PATH\TO\YOUR\OUTPUT\FOLDER"
+input_dir = r"Enhancing_road_safety_with_AI_driven_traffic_accident_analysis_and_prediction_py.ipynb"
+output_dir = r"Enhancing_road_safety_with_AI_driven_traffic_accident_analysis_and_prediction_py.ipynb"
 
 # Make sure the output directory exists
 os.makedirs(output_dir, exist_ok=True)
